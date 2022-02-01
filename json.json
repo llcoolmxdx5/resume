@@ -1,0 +1,86 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": true },
+  "profile": {
+    "name": "娄笠",
+    "email": "2938129812@qq.com",
+    "mobile": "13228164660",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "4 年",
+    "workPlace": " 四川成都",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": "2014.09.01 - 2018.06.30",
+      "school": "成都理工大学工程技术学院",
+      "major": "自动化",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "柯莱特",
+      "department_name": "外派蚂蚁集团体验技术部",
+      "work_time": "2020.04 - 至今",
+      "work_desc": "1. 蚂蚁一站式小二数据平台知数据核心开发者\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的数据准备模块产品能力建设",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "乐山龙图网络科技",
+      "department_name": "软件开发部",
+      "work_time": "2018.03 - 2020.3",
+      "work_desc": "前端开发，使用 jquery 等技术负责公司的官网等项目开发",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    { "skill_name": "HTML 和 CSS", "skill_desc": "", "skill_level": 89 },
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 90,
+      "dataIndex": 1,
+      "skill_desc": "大型前端项目经验，多个项目的 TypeScript 经验"
+    },
+    {
+      "skill_name": "React",
+      "skill_desc": "复杂 React 项目经验",
+      "skill_level": 80,
+      "dataIndex": 2
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "知数据",
+      "project_role": "核心开发者",
+      "project_time": "2020.04 - 2021.06",
+      "project_desc": "知数据是一站式小二数据平台, 主要面向蚂蚁和集团内部运营和高管用户，帮助运营和高管高效获取决策信息，并提高管理效率",
+      "project_content": "知数据平台主要是集中了蚂蚁集团各条业务线产生的数万张报表, 以及蚂蚁集团大数据部打造的 10 余种数据产品, 方便用户特别是高管用户可以一站式的查看蚂蚁集团的各项数据。\n 技术使用 bigfish(umi 内网版) + 全量 react-hook + recoil 进行数据流的管理 + 全量 TypeScript\n 1. 项目从 0 到 1 的开发\n 2. 产品体验精雕细琢的打磨",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "DeepInsight",
+      "project_role": "数据准备负责人",
+      "project_time": "2021.07 - 至今",
+      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n 1. 自 2021.07 - 2021.12 负责数据数据准备模块, 也就是连接各种数据库建立数据集给报表制作使用\n 2. 负责数据准备模块的集群化迁移工作(基于DDD领域驱动设计)",
+      "dataIndex": 1
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "能力项：沟通协调能力、执行力\n自驱型前端工程师，有大型复杂前端项目开发经验，参与蚂蚁集团 BI 产品 知数据、DeepInsight 的开发建设，知数据核心开发者，DeepInsight 数据准备模块 owner。\n有良好的编码习惯和清晰的 git commit message 习惯"
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
